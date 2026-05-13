@@ -55,8 +55,8 @@ The project strictly follows the **Three-Tier (Clean) Architecture** pattern to 
 2. **Configure Environment Variables:**
    Create a `config.properties` or `application.yaml` file in the root directory (or use environment variables):
    ```env
-   TELEGRAM_BOT_NAME=@vacancyFinalWork_bot
-   TELEGRAM_BOT_TOKEN=8722477529:AAHm6DKjQP8UY8vwXalgSz5SCO7A9Atg1hs
+   BOT_NAME=@vacancyFinalWork_bot
+   BOT_TOKEN=8722477529:AAHm6DKjQP8UY8vwXalgSz5SCO7A9Atg1hs
    ```
 
 3. **Build the Project:**
